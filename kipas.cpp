@@ -1,6 +1,7 @@
  #include <windows.h>
     #include <GL/glut.h>
 // nurulaziza
+//@nrlaaziza
     //buat 3 buah method
     void cylinder(float rbase,float rtop,float height);
     void blok(float tebal,int ratiol,int ratiop);
